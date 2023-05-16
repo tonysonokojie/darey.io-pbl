@@ -300,9 +300,12 @@ phpinfo();
 <img width="780" alt="Screenshot 2023-03-30 at 04 05 33" src="https://user-images.githubusercontent.com/116417007/228717989-7dd15562-3481-41d8-9039-3a3a91841d44.png">
 
 ubuntu@ip-172-31-2-174:~$ sudo rm /var/www/projectlamp/index.php
+
 ubuntu@ip-172-31-2-174:~$ 
 
 REAL LIFE PROJECT by deploying a LAMP stack website in AWS Cloud completed
+
+checking Jenkins
 
 
 
