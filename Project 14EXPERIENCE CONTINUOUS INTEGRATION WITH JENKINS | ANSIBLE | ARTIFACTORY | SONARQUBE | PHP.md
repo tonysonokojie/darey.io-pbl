@@ -1,0 +1,56 @@
+## EXPERIENCE CONTINUOUS INTEGRATION WITH JENKINS | ANSIBLE | ARTIFACTORY | SONARQUBE | PHP
+
+In this project, you will understand and get hands on experience around the entire concept around CI/CD from applications perspective. To fully gain real expertise around this idea, it is best to see it in action across different programming languages and from the platform perspective too. From the application perspective, we will be focusing on PHP here; there are more projects ahead that are based on Java, Node.js, .Net and Python. By the time you start working on Terraform, Docker and Kubernetes projects, you will get to see the platform perspective of CI/CD in action.
+
+<img width="1440" alt="Screenshot 2023-07-23 at 07 35 21" src="https://github.com/tonysonokojie/darey.io-pbl/assets/116417007/308d10f3-f59b-44ac-8a26-cf20886446e0">
+<img width="1440" alt="Screenshot 2023-07-23 at 07 43 08" src="https://github.com/tonysonokojie/darey.io-pbl/assets/116417007/7dbf0769-3b0a-412e-8110-288ec7121572">
+<img width="1440" alt="Screenshot 2023-07-23 at 07 57 34" src="https://github.com/tonysonokojie/darey.io-pbl/assets/116417007/4b2aef47-dd62-4830-946a-eab73106b256">
+<img width="1440" alt="Screenshot 2023-07-23 at 07 59 31" src="https://github.com/tonysonokojie/darey.io-pbl/assets/116417007/95f6b7bd-a76d-4d0c-b6cd-9dc220641343">
+<img width="1440" alt="Screenshot 2023-07-24 at 05 54 04" src="https://github.com/tonysonokojie/darey.io-pbl/assets/116417007/39ec6198-18d5-487e-baa7-72392b3816ed">
+<img width="1440" alt="Screenshot 2023-07-24 at 06 13 59" src="https://github.com/tonysonokojie/darey.io-pbl/assets/116417007/a856ae13-3630-404d-b3c9-fa0e641be187">
+<img width="1440" alt="Screenshot 2023-07-24 at 06 35 57" src="https://github.com/tonysonokojie/darey.io-pbl/assets/116417007/8c4ec363-25be-4019-bf16-c7d0229f8043">
+<img width="1440" alt="Screenshot 2023-07-24 at 06 38 14" src="https://github.com/tonysonokojie/darey.io-pbl/assets/116417007/9e223d16-5660-4bef-86c8-e2d116e0a610">
+<img width="1440" alt="Screenshot 2023-07-24 at 09 38 01" src="https://github.com/tonysonokojie/darey.io-pbl/assets/116417007/d29e3568-fcd6-46bc-9c14-cbfa31ebd14d">
+<img width="1440" alt="Screenshot 2023-07-25 at 05 47 03" src="https://github.com/tonysonokojie/darey.io-pbl/assets/116417007/1a3c3db2-ba94-4624-a70f-2229ea6ff6d3">
+<img width="1440" alt="Screenshot 2023-07-25 at 05 47 54" src="https://github.com/tonysonokojie/darey.io-pbl/assets/116417007/2695ef66-26d6-49e7-941d-1a5217ea7258">
+<img width="1440" alt="Screenshot 2023-07-25 at 10 47 16" src="https://github.com/tonysonokojie/darey.io-pbl/assets/116417007/e5010727-0d42-4803-973e-5482df99d8bd">
+<img width="1440" alt="Screenshot 2023-07-25 at 10 47 47" src="https://github.com/tonysonokojie/darey.io-pbl/assets/116417007/8baebded-9d3e-423d-8828-1ed703638de9">
+<img width="1440" alt="Screenshot 2023-07-25 at 10 48 35" src="https://github.com/tonysonokojie/darey.io-pbl/assets/116417007/61ad1eda-22c5-4ffd-8a35-0e3d1c9461e4">
+<img width="1440" alt="Screenshot 2023-07-25 at 10 48 43" src="https://github.com/tonysonokojie/darey.io-pbl/assets/116417007/6d127478-09d4-447e-8561-9f1312a934ba">
+<img width="1440" alt="Screenshot 2023-07-25 at 19 59 48" src="https://github.com/tonysonokojie/darey.io-pbl/assets/116417007/4f2bc8a8-49ba-4e47-a8a3-ff0332bd2d8e">
+<img width="1440" alt="Screenshot 2023-07-25 at 19 59 58" src="https://github.com/tonysonokojie/darey.io-pbl/assets/116417007/366ee8de-5810-4acc-b77a-d1fbfabfdfa0">
+<img width="1440" alt="Screenshot 2023-07-25 at 20 15 26" src="https://github.com/tonysonokojie/darey.io-pbl/assets/116417007/9edc7d43-4856-4d46-b012-a08c1aee32e3">
+<img width="1440" alt="Screenshot 2023-07-25 at 20 15 45" src="https://github.com/tonysonokojie/darey.io-pbl/assets/116417007/48d68610-f3be-4c1d-8f3a-ee45965aab9e">
+<img width="1440" alt="Screenshot 2023-07-25 at 20 15 53" src="https://github.com/tonysonokojie/darey.io-pbl/assets/116417007/b7c66908-21f0-49c5-b048-8e4418ce12ce">
+<img width="1440" alt="Screenshot 2023-07-25 at 20 20 20" src="https://github.com/tonysonokojie/darey.io-pbl/assets/116417007/baacd6e6-9da7-446f-8aa7-1302c0d4bc2e">
+<img width="1440" alt="Screenshot 2023-07-27 at 10 56 24" src="https://github.com/tonysonokojie/darey.io-pbl/assets/116417007/0dca2577-447a-4bf3-9c43-5c8c9f73fc2d">
+<img width="1440" alt="Screenshot 2023-07-27 at 21 26 05" src="https://github.com/tonysonokojie/darey.io-pbl/assets/116417007/8a661b10-af5a-4977-8975-af5ae6e54504">
+<img width="1440" alt="Screenshot 2023-07-27 at 22 52 26" src="https://github.com/tonysonokojie/darey.io-pbl/assets/116417007/6bb21d47-b2ac-42a4-aad0-204f3777ad3a">
+<img width="1440" alt="Screenshot 2023-07-27 at 22 52 43" src="https://github.com/tonysonokojie/darey.io-pbl/assets/116417007/ae8a2d3b-2a14-4a96-ae0d-54f8b238aeef">
+<img width="1440" alt="Screenshot 2023-07-27 at 22 52 56" src="https://github.com/tonysonokojie/darey.io-pbl/assets/116417007/e1d19f44-6b27-478f-8d55-2f183c9fc546">
+<img width="1440" alt="Screenshot 2023-07-27 at 22 53 04" src="https://github.com/tonysonokojie/darey.io-pbl/assets/116417007/7d965ae7-609b-43fd-b5ec-3c17eab4705a">
+<img width="1440" alt="Screenshot 2023-07-27 at 22 53 24" src="https://github.com/tonysonokojie/darey.io-pbl/assets/116417007/2f2cc3d0-e789-4456-b3af-25f1f9ca5fa8">
+<img width="1440" alt="Screenshot 2023-07-28 at 16 33 24" src="https://github.com/tonysonokojie/darey.io-pbl/assets/116417007/9e6c9293-cc08-4be0-a647-a79ca11a2c65">
+<img width="1440" alt="Screenshot 2023-07-28 at 16 38 52" src="https://github.com/tonysonokojie/darey.io-pbl/assets/116417007/777e30ef-6ff2-4972-81cb-2c9246988e36">
+<img width="1440" alt="Screenshot 2023-07-28 at 16 45 27" src="https://github.com/tonysonokojie/darey.io-pbl/assets/116417007/3d979864-2865-42cd-8f87-c3170c2193dc">
+<img width="1440" alt="Screenshot 2023-07-28 at 16 46 41" src="https://github.com/tonysonokojie/darey.io-pbl/assets/116417007/8da15446-95cc-4b92-aa8e-99cc19228c00">
+<img width="1440" alt="Screenshot 2023-07-29 at 09 34 52" src="https://github.com/tonysonokojie/darey.io-pbl/assets/116417007/76c16bd8-50c4-4cfd-8fe6-126e0ce77a03">
+<img width="1440" alt="Screenshot 2023-07-29 at 09 35 20" src="https://github.com/tonysonokojie/darey.io-pbl/assets/116417007/120f1f60-bcc9-45f5-afe5-30c95b714181">
+<img width="1440" alt="Screenshot 2023-07-29 at 10 53 00" src="https://github.com/tonysonokojie/darey.io-pbl/assets/116417007/2d60884f-33dc-4be6-8bde-1b8a62b5e4d9">
+<img width="1440" alt="Screenshot 2023-07-29 at 10 53 22" src="https://github.com/tonysonokojie/darey.io-pbl/assets/116417007/548ef04b-0d73-4bfe-be3f-3bf06b65feb7">
+<img width="1440" alt="Screenshot 2023-07-29 at 10 53 31" src="https://github.com/tonysonokojie/darey.io-pbl/assets/116417007/35893e0a-a86f-4ab9-a1ae-185e952c8960">
+<img width="1440" alt="Screenshot 2023-07-29 at 12 59 57" src="https://github.com/tonysonokojie/darey.io-pbl/assets/116417007/e566d1f1-2f56-4355-95ba-048372184de7">
+<img width="1440" alt="Screenshot 2023-07-29 at 13 00 13" src="https://github.com/tonysonokojie/darey.io-pbl/assets/116417007/0fcd0c1a-baac-4148-b367-d7a2eecf6895">
+<img width="1440" alt="Screenshot 2023-07-29 at 13 00 37" src="https://github.com/tonysonokojie/darey.io-pbl/assets/116417007/426a0bcf-5cdf-4c4f-8af7-c2ed2578d54e">
+<img width="1440" alt="Screenshot 2023-07-29 at 13 01 56" src="https://github.com/tonysonokojie/darey.io-pbl/assets/116417007/bde2ad88-f60e-4e97-923d-7dcfde2bc2d3">
+<img width="1440" alt="Screenshot 2023-07-29 at 13 02 06" src="https://github.com/tonysonokojie/darey.io-pbl/assets/116417007/33868551-8566-4357-909e-8946a00b3e37">
+<img width="1440" alt="Screenshot 2023-07-29 at 13 25 49" src="https://github.com/tonysonokojie/darey.io-pbl/assets/116417007/0861836c-9aa8-4152-93c6-fc2e484ad73b">
+<img width="1440" alt="Screenshot 2023-07-29 at 13 27 23" src="https://github.com/tonysonokojie/darey.io-pbl/assets/116417007/41f1a6b8-364e-43b0-bb16-bdc9fd8e1f7e">
+<img width="1440" alt="Screenshot 2023-07-29 at 13 35 14" src="https://github.com/tonysonokojie/darey.io-pbl/assets/116417007/a7470614-8e2d-4532-8486-1791d34174f7">
+<img width="1440" alt="Screenshot 2023-08-01 at 04 52 32" src="https://github.com/tonysonokojie/darey.io-pbl/assets/116417007/c2645189-5225-4c9f-80c3-cb62a84cb0bd">
+<img width="1440" alt="Screenshot 2023-08-01 at 04 53 32" src="https://github.com/tonysonokojie/darey.io-pbl/assets/116417007/96be5a67-c4cf-43cf-96e5-6e9fa5a5d73e">
+<img width="1440" alt="Screenshot 2023-08-01 at 05 15 34" src="https://github.com/tonysonokojie/darey.io-pbl/assets/116417007/29962793-857b-46a1-aad5-9f7a5d38e811">
+<img width="1440" alt="Screenshot 2023-08-01 at 06 01 22" src="https://github.com/tonysonokojie/darey.io-pbl/assets/116417007/2dd88f22-a43c-4870-a7f9-47a589faeb25">
+<img width="1440" alt="Screenshot 2023-08-01 at 06 11 02" src="https://github.com/tonysonokojie/darey.io-pbl/assets/116417007/54205399-98cf-4a7c-93ca-9e876ab3252d">
+<img width="1440" alt="Screenshot 2023-08-01 at 06 11 13" src="https://github.com/tonysonokojie/darey.io-pbl/assets/116417007/7beaf2cc-ba13-426a-a429-f62244bb8b55">
+<img width="1440" alt="Screenshot 2023-08-01 at 08 26 42" src="https://github.com/tonysonokojie/darey.io-pbl/assets/116417007/f532ca28-e9d0-49bf-b553-be0cf62d38ea">
